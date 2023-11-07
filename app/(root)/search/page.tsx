@@ -1,4 +1,4 @@
-import { fetchUser, fecthUsers } from "@/lib/actions/user.actions";
+import { fetchUser, fetchUsers } from "@/lib/actions/user.actions";
 import { currentUser } from "@clerk/nextjs";
 import { redirect } from "next/navigation";
 import Image from 'next/image';
@@ -17,7 +17,7 @@ const userInfo = await fetchUser(user.id);
 if (!userInfo?.onboarded) redirect('/onboarding');
 
 // Fetches all users
-const result = await fecthUsers ({
+const result = await fetchUsers ({
     userId: user.id,
     searchString: '',
     pageNumber: 1,

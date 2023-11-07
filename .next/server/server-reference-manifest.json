@@ -1,0 +1,251 @@
+{
+  "node": {
+    "42edc6fda4dd33ab871584e2b539d1b31c593aa2": {
+      "workers": {
+        "app/(root)/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/create-thread/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "sc_server",
+        "app/(root)/create-thread/page": "sc_action"
+      }
+    },
+    "5b7cee3e71af98749aab0a86f1dafb1a23398cb0": {
+      "workers": {
+        "app/(root)/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/create-thread/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "sc_server",
+        "app/(root)/create-thread/page": "sc_action"
+      }
+    },
+    "d7e504f2cdd996ff1656b6a617893aabd664c964": {
+      "workers": {
+        "app/(root)/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/create-thread/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "sc_server",
+        "app/(root)/create-thread/page": "sc_action"
+      }
+    },
+    "7b5c9d97247c7d02674f26cb5b40cd9bb750091b": {
+      "workers": {
+        "app/(root)/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/create-thread/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "sc_server",
+        "app/(root)/create-thread/page": "sc_action"
+      }
+    },
+    "db125b939a3b67d957fe7cb376f9ee549bec426c": {
+      "workers": {
+        "app/(root)/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/create-thread/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "sc_server",
+        "app/(root)/create-thread/page": "sc_action"
+      }
+    },
+    "d738cde95ca252b5aa0a727fa7930207cb887b3f": {
+      "workers": {
+        "app/(root)/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/create-thread/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/search/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(auth)/onboarding/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "sc_server",
+        "app/(root)/create-thread/page": "sc_server",
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/search/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server",
+        "app/(auth)/onboarding/page": "sc_server"
+      }
+    },
+    "6d2061f4b5fc6d30c313a248d7946937552a0142": {
+      "workers": {
+        "app/(root)/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/create-thread/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/search/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(auth)/onboarding/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "sc_server",
+        "app/(root)/create-thread/page": "sc_server",
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/search/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server",
+        "app/(auth)/onboarding/page": "sc_server"
+      }
+    },
+    "85f0fcbf22612775b4f408c3535b955207716cee": {
+      "workers": {
+        "app/(root)/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/create-thread/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/search/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(auth)/onboarding/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "sc_server",
+        "app/(root)/create-thread/page": "sc_server",
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/search/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server",
+        "app/(auth)/onboarding/page": "sc_server"
+      }
+    },
+    "ebb79b9ac67f9a2eec53b0c78de9a5fd8f0024bc": {
+      "workers": {
+        "app/(root)/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/create-thread/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/search/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(auth)/onboarding/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "sc_server",
+        "app/(root)/create-thread/page": "sc_server",
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/search/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server",
+        "app/(auth)/onboarding/page": "sc_server"
+      }
+    },
+    "25124382e5fdd85145845f627b975b1c1d1e4839": {
+      "workers": {
+        "app/(root)/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fthread.actions.ts%22%2C%5B%22fetchPosts%22%2C%22createThread%22%2C%22deleteThread%22%2C%22fetchThreadById%22%2C%22addCommentToThread%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/create-thread/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/search/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(auth)/onboarding/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "sc_server",
+        "app/(root)/create-thread/page": "sc_server",
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/search/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server",
+        "app/(auth)/onboarding/page": "sc_server"
+      }
+    },
+    "7724c22215310986cdb7639870657b4937ed1041": {
+      "workers": {
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server"
+      }
+    },
+    "0ec8377634160692b85ffb7057b60196816f6681": {
+      "workers": {
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server"
+      }
+    },
+    "352b71ca3cb4b31287c60258d703ff2ad384c8bc": {
+      "workers": {
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server"
+      }
+    },
+    "911517e7b7dbc0a265e79f91b97fe6c0a539a03b": {
+      "workers": {
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server"
+      }
+    },
+    "66197fa5be894c6d5f724b408d4369ae0f313f3d": {
+      "workers": {
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server"
+      }
+    },
+    "d5a781ea53b6251ce307a82421c926f0193dd1b3": {
+      "workers": {
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server"
+      }
+    },
+    "6766406501e91b340bdea3c475beeabad5d32538": {
+      "workers": {
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server"
+      }
+    },
+    "2ca87cca26dc46ae7b2caa66e2d4316cd4a50457": {
+      "workers": {
+        "app/(root)/communities/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/communities/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/[id]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22fetchUser%22%2C%22updateUser%22%2C%22fetchUserPosts%22%2C%22fetchUsers%22%2C%22getActivity%22%5D%5D%2C%5B%22%2FUsers%2Falfonso%2FDocuments%2FGitHub%2Fthreads_app%2Flib%2Factions%2Fcommunity.actions.ts%22%2C%5B%22createCommunity%22%2C%22fetchCommunityDetails%22%2C%22fetchCommunityPosts%22%2C%22fetchCommunities%22%2C%22addMemberToCommunity%22%2C%22removeUserFromCommunity%22%2C%22updateCommunityInfo%22%2C%22deleteCommunity%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/communities/[id]/page": "sc_server",
+        "app/(root)/communities/page": "sc_server",
+        "app/(root)/profile/[id]/page": "sc_server"
+      }
+    }
+  },
+  "edge": {}
+}
